@@ -1,0 +1,433 @@
+[
+  {
+    "word": "abandon",
+    "englishMeaning": "to leave something behind or give up",
+    "banglaMeaning": "পরিত্যাগ করা",
+    "synonyms": ["forsake", "desert", "leave"],
+    "antonyms": ["keep", "continue", "maintain"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "She had to abandon her car during the storm.",
+    "usageHint": "Used when someone gives up on something or someone."
+  },
+  {
+    "word": "ability",
+    "englishMeaning": "the power or skill to do something",
+    "banglaMeaning": "দক্ষতা, ক্ষমতা",
+    "synonyms": ["capability", "skill", "talent"],
+    "antonyms": ["inability", "incompetence", "weakness"],
+    "partOfSpeech": "noun",
+    "exampleSentence": "He has the ability to solve complex problems.",
+    "usageHint": "Used to describe someone’s skill or competence."
+  },
+  {
+    "word": "absorb",
+    "englishMeaning": "to take in or soak up",
+    "banglaMeaning": "শোষণ করা",
+    "synonyms": ["assimilate", "soak", "engulf"],
+    "antonyms": ["release", "repel", "emit"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "The sponge can absorb a lot of water.",
+    "usageHint": "Used literally for liquids or figuratively for information."
+  },
+  {
+    "word": "abstract",
+    "englishMeaning": "existing in thought or idea but not having a physical form",
+    "banglaMeaning": "বিমূর্ত, ধারণাগত",
+    "synonyms": ["theoretical", "conceptual", "intangible"],
+    "antonyms": ["concrete", "real", "tangible"],
+    "partOfSpeech": "adjective",
+    "exampleSentence": "He prefers abstract art over realistic paintings.",
+    "usageHint": "Used to describe ideas or art that are not concrete."
+  },
+  {
+    "word": "abundant",
+    "englishMeaning": "existing in large quantities",
+    "banglaMeaning": "প্রচুর",
+    "synonyms": ["plentiful", "ample", "copious"],
+    "antonyms": ["scarce", "rare", "insufficient"],
+    "partOfSpeech": "adjective",
+    "exampleSentence": "The farm produced abundant crops this year.",
+    "usageHint": "Used to describe something in plentiful supply."
+  },
+  {
+    "word": "accept",
+    "englishMeaning": "to agree to receive or undertake something offered",
+    "banglaMeaning": "গ্রহণ করা",
+    "synonyms": ["receive", "approve", "consent"],
+    "antonyms": ["reject", "decline", "refuse"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "She accepted the invitation to the party.",
+    "usageHint": "Used for agreeing or receiving something."
+  },
+  {
+    "word": "access",
+    "englishMeaning": "the ability or right to enter or use something",
+    "banglaMeaning": "প্রবেশাধিকার, ব্যবহারাধিকতা",
+    "synonyms": ["entry", "admission", "approach"],
+    "antonyms": ["denial", "blockage", "obstruction"],
+    "partOfSpeech": "noun",
+    "exampleSentence": "Students have access to the library after school.",
+    "usageHint": "Used to describe the right or means to reach something."
+  },
+  {
+    "word": "accident",
+    "englishMeaning": "an unexpected event causing harm or damage",
+    "banglaMeaning": "দুর্ঘটনা",
+    "synonyms": ["mishap", "collision", "crash"],
+    "antonyms": ["intent", "plan", "design"],
+    "partOfSpeech": "noun",
+    "exampleSentence": "He broke his arm in a car accident.",
+    "usageHint": "Used for unplanned harmful events."
+  },
+  {
+    "word": "accompany",
+    "englishMeaning": "to go somewhere with someone",
+    "banglaMeaning": "সাথে যাওয়া",
+    "synonyms": ["escort", "attend", "follow"],
+    "antonyms": ["abandon", "desert", "leave"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "She accompanied her friend to the hospital.",
+    "usageHint": "Used when one person goes along with another."
+  },
+  {
+    "word": "accurate",
+    "englishMeaning": "free from errors, precise",
+    "banglaMeaning": "সঠিক",
+    "synonyms": ["exact", "correct", "precise"],
+    "antonyms": ["inaccurate", "wrong", "imprecise"],
+    "partOfSpeech": "adjective",
+    "exampleSentence": "The scientist provided accurate measurements.",
+    "usageHint": "Used to describe correctness or precision."
+  },
+  {
+    "word": "achieve",
+    "englishMeaning": "to successfully reach a goal or complete something",
+    "banglaMeaning": "অর্জন করা",
+    "synonyms": ["accomplish", "attain", "fulfill"],
+    "antonyms": ["fail", "lose", "miss"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "She achieved her dream of becoming a doctor.",
+    "usageHint": "Used when someone successfully completes a task or goal."
+  },
+  {
+    "word": "acknowledge",
+    "englishMeaning": "to accept or admit the truth or existence of something",
+    "banglaMeaning": "স্বীকার করা",
+    "synonyms": ["admit", "recognize", "confess"],
+    "antonyms": ["deny", "ignore", "reject"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "He acknowledged his mistake in the report.",
+    "usageHint": "Used when someone admits or accepts something."
+  },
+  {
+    "word": "adapt",
+    "englishMeaning": "to adjust to new conditions",
+    "banglaMeaning": "অভিযোজন করা",
+    "synonyms": ["adjust", "modify", "acclimate"],
+    "antonyms": ["resist", "struggle", "reject"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "Animals adapt to changes in their environment.",
+    "usageHint": "Used when someone or something changes to fit new conditions."
+  },
+  {
+    "word": "addict",
+    "englishMeaning": "a person who is dependent on a substance or activity",
+    "banglaMeaning": "নেশাগ্রস্ত ব্যক্তি",
+    "synonyms": ["dependent", "fanatic", "enthusiast"],
+    "antonyms": ["nonuser", "abstainer", "moderate"],
+    "partOfSpeech": "noun",
+    "exampleSentence": "He is a video game addict.",
+    "usageHint": "Used to describe someone who cannot stop a habit."
+  },
+  {
+    "word": "adjust",
+    "englishMeaning": "to change something slightly to make it better",
+    "banglaMeaning": "সামঞ্জস্য করা",
+    "synonyms": ["modify", "tune", "adapt"],
+    "antonyms": ["disarrange", "disturb", "upset"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "She adjusted the mirror to see properly.",
+    "usageHint": "Used when altering something to improve it."
+  },
+  {
+    "word": "admire",
+    "englishMeaning": "to regard with respect or warm approval",
+    "banglaMeaning": "প্রশংসা করা",
+    "synonyms": ["appreciate", "esteem", "respect"],
+    "antonyms": ["despise", "dislike", "hate"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "I admire her courage and determination.",
+    "usageHint": "Used to show respect or approval for someone or something."
+  },
+  {
+    "word": "admit",
+    "englishMeaning": "to confess or accept something",
+    "banglaMeaning": "স্বীকার করা",
+    "synonyms": ["acknowledge", "confess", "accept"],
+    "antonyms": ["deny", "disclaim", "reject"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "He admitted that he had made a mistake.",
+    "usageHint": "Used when confessing or agreeing with something."
+  },
+  {
+    "word": "advance",
+    "englishMeaning": "to move forward or make progress",
+    "banglaMeaning": "অগ্রসর হওয়া",
+    "synonyms": ["progress", "proceed", "develop"],
+    "antonyms": ["retreat", "recede", "halt"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "Technology continues to advance rapidly.",
+    "usageHint": "Used to describe progress or forward movement."
+  },
+  {
+    "word": "adventure",
+    "englishMeaning": "an unusual or exciting experience",
+    "banglaMeaning": "সাহসিক অভিযান",
+    "synonyms": ["journey", "exploration", "quest"],
+    "antonyms": ["routine", "boredom", "monotony"],
+    "partOfSpeech": "noun",
+    "exampleSentence": "They went on an adventure through the forest.",
+    "usageHint": "Used for exciting or unusual experiences."
+  },
+  {
+    "word": "advice",
+    "englishMeaning": "guidance or recommendations offered to someone",
+    "banglaMeaning": "পরামর্শ",
+    "synonyms": ["guidance", "recommendation", "suggestion"],
+    "antonyms": ["misguidance", "discouragement", "hindrance"],
+    "partOfSpeech": "noun",
+    "exampleSentence": "She gave me some useful advice about studying.",
+    "usageHint": "Used when giving guidance or suggestions."
+  },
+  {
+    "word": "affect",
+    "englishMeaning": "to have an influence on something",
+    "banglaMeaning": "প্রভাব ফেলা",
+    "synonyms": ["influence", "impact", "alter"],
+    "antonyms": ["neglect", "ignore", "leave"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "The weather can affect our mood.",
+    "usageHint": "Used to describe something causing a change or impact."
+  },
+  {
+    "word": "afford",
+    "englishMeaning": "to have enough money or resources to do something",
+    "banglaMeaning": "সামর্থ্য থাকা",
+    "synonyms": ["bear", "manage", "provide"],
+    "antonyms": ["lack", "forfeit", "need"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "I cannot afford a new car right now.",
+    "usageHint": "Used when talking about financial capability or resources."
+  },
+  {
+    "word": "agree",
+    "englishMeaning": "to have the same opinion or consent",
+    "banglaMeaning": "সম্মত হওয়া",
+    "synonyms": ["consent", "approve", "concur"],
+    "antonyms": ["disagree", "oppose", "refuse"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "We agreed on the plan for the trip.",
+    "usageHint": "Used to express agreement or consent."
+  },
+  {
+    "word": "alert",
+    "englishMeaning": "quick to notice and respond to danger or problems",
+    "banglaMeaning": "সতর্ক",
+    "synonyms": ["attentive", "vigilant", "watchful"],
+    "antonyms": ["careless", "inattentive", "unaware"],
+    "partOfSpeech": "adjective",
+    "exampleSentence": "The guard remained alert throughout the night.",
+    "usageHint": "Used to describe someone attentive or watchful."
+  },
+  {
+    "word": "allow",
+    "englishMeaning": "to give permission for something",
+    "banglaMeaning": "অনুমোদন করা",
+    "synonyms": ["permit", "authorize", "let"],
+    "antonyms": ["forbid", "prohibit", "deny"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "The teacher allowed us to leave early.",
+    "usageHint": "Used when granting permission."
+  },
+  {
+    "word": "amaze",
+    "englishMeaning": "to surprise or fill with wonder",
+    "banglaMeaning": "আশ্চর্য করা",
+    "synonyms": ["astonish", "astound", "surprise"],
+    "antonyms": ["bore", "disappoint", "confuse"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "The magician’s tricks amazed the children.",
+    "usageHint": "Used when something causes surprise or wonder."
+  },
+  {
+    "word": "ambition",
+    "englishMeaning": "a strong desire to achieve something",
+    "banglaMeaning": "লক্ষ্য, উচ্চাকাঙ্ক্ষা",
+    "synonyms": ["aspiration", "goal", "dream"],
+    "antonyms": ["indifference", "apathy", "laziness"],
+    "partOfSpeech": "noun",
+    "exampleSentence": "Her ambition is to become a successful lawyer.",
+    "usageHint": "Used to describe a person’s strong goal or dream."
+  },
+  {
+    "word": "amount",
+    "englishMeaning": "a quantity of something",
+    "banglaMeaning": "পরিমাণ",
+    "synonyms": ["quantity", "total", "sum"],
+    "antonyms": ["lack", "deficiency", "shortage"],
+    "partOfSpeech": "noun",
+    "exampleSentence": "The total amount of water used was high.",
+    "usageHint": "Used to describe the size or quantity of something."
+  },
+  {
+    "word": "analyze",
+    "englishMeaning": "to examine in detail for understanding",
+    "banglaMeaning": "বিশ্লেষণ করা",
+    "synonyms": ["examine", "study", "inspect"],
+    "antonyms": ["ignore", "neglect", "overlook"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "Scientists analyze data to find patterns.",
+    "usageHint": "Used when studying or examining something closely."
+  },
+  {
+    "word": "ancient",
+    "englishMeaning": "belonging to the very distant past",
+    "banglaMeaning": "প্রাচীন",
+    "synonyms": ["old", "historic", "antique"],
+    "antonyms": ["modern", "new", "recent"],
+    "partOfSpeech": "adjective",
+    "exampleSentence": "The museum has many ancient artifacts.",
+    "usageHint": "Used to describe things from a long time ago."
+  },
+  {
+    "word": "anger",
+    "englishMeaning": "a strong feeling of displeasure or rage",
+    "banglaMeaning": "রাগ",
+    "synonyms": ["fury", "rage", "wrath"],
+    "antonyms": ["calmness", "peace", "patience"],
+    "partOfSpeech": "noun",
+    "exampleSentence": "His anger was obvious when he saw the mistake.",
+    "usageHint": "Used to describe strong feelings of displeasure."
+  },
+  {
+    "word": "announce",
+    "englishMeaning": "to make something known publicly",
+    "banglaMeaning": "ঘোষণা করা",
+    "synonyms": ["declare", "proclaim", "broadcast"],
+    "antonyms": ["conceal", "withhold", "suppress"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "The company announced a new product today.",
+    "usageHint": "Used to inform people officially or publicly."
+  },
+  {
+    "word": "annual",
+    "englishMeaning": "happening once every year",
+    "banglaMeaning": "বার্ষিক",
+    "synonyms": ["yearly", "once-a-year", "per annum"],
+    "antonyms": ["monthly", "daily", "occasional"],
+    "partOfSpeech": "adjective",
+    "exampleSentence": "The school holds an annual sports day.",
+    "usageHint": "Used to describe events or occurrences every year."
+  },
+  {
+    "word": "answer",
+    "englishMeaning": "a response to a question or problem",
+    "banglaMeaning": "উত্তর",
+    "synonyms": ["reply", "response", "solution"],
+    "antonyms": ["question", "inquiry", "problem"],
+    "partOfSpeech": "noun",
+    "exampleSentence": "She gave the correct answer to the question.",
+    "usageHint": "Used for replying or solving a problem."
+  },
+  {
+    "word": "anxiety",
+    "englishMeaning": "a feeling of worry or nervousness",
+    "banglaMeaning": "উদ্বেগ",
+    "synonyms": ["worry", "nervousness", "concern"],
+    "antonyms": ["calmness", "peace", "relaxation"],
+    "partOfSpeech": "noun",
+    "exampleSentence": "He felt anxiety before his exams.",
+    "usageHint": "Used to describe nervous or worried feelings."
+  },
+  {
+    "word": "apologize",
+    "englishMeaning": "to express regret for something done wrong",
+    "banglaMeaning": "ক্ষমা প্রার্থনা করা",
+    "synonyms": ["say sorry", "regret", "express remorse"],
+    "antonyms": ["defend", "justify", "accuse"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "She apologized for arriving late.",
+    "usageHint": "Used to express regret for a mistake."
+  },
+  {
+    "word": "appear",
+    "englishMeaning": "to come into view or be seen",
+    "banglaMeaning": "দেখানো বা উপস্থিত হওয়া",
+    "synonyms": ["show up", "emerge", "surface"],
+    "antonyms": ["disappear", "vanish", "hide"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "A rainbow appeared after the rain.",
+    "usageHint": "Used when something becomes visible or noticeable."
+  },
+  {
+    "word": "apply",
+    "englishMeaning": "to make a formal request or use something",
+    "banglaMeaning": "আবেদন করা / প্রয়োগ করা",
+    "synonyms": ["request", "use", "implement"],
+    "antonyms": ["withdraw", "ignore", "neglect"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "He applied for a scholarship at the university.",
+    "usageHint": "Used for submitting requests or using knowledge/tools."
+  },
+  {
+    "word": "appoint",
+    "englishMeaning": "to assign a job or role to someone",
+    "banglaMeaning": "নিয়োগ করা",
+    "synonyms": ["assign", "designate", "nominate"],
+    "antonyms": ["dismiss", "remove", "fire"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "They appointed her as the new manager.",
+    "usageHint": "Used to give someone a position or responsibility."
+  },
+  {
+    "word": "appreciate",
+    "englishMeaning": "to recognize the value of something",
+    "banglaMeaning": "মূল্যায়ন করা / কৃতজ্ঞ হওয়া",
+    "synonyms": ["value", "acknowledge", "respect"],
+    "antonyms": ["disregard", "undervalue", "ignore"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "I appreciate your help with the project.",
+    "usageHint": "Used to express gratitude or recognition."
+  },
+  {
+    "word": "approach",
+    "englishMeaning": "to come near or move toward something",
+    "banglaMeaning": "নিকট আসা / এগোনো",
+    "synonyms": ["advance", "move toward", "reach"],
+    "antonyms": ["retreat", "withdraw", "recede"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "The train approached the station slowly.",
+    "usageHint": "Used when moving closer to a person, place, or goal."
+  },
+  {
+    "word": "approve",
+    "englishMeaning": "to officially agree with or accept",
+    "banglaMeaning": "অনুমোদন করা",
+    "synonyms": ["authorize", "accept", "endorse"],
+    "antonyms": ["disapprove", "reject", "deny"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "The committee approved the new plan.",
+    "usageHint": "Used when giving formal agreement or permission."
+  },
+  {
+    "word": "argue",
+    "englishMeaning": "to give reasons for or against something",
+    "banglaMeaning": "বিবাদ করা / যুক্তি দেওয়া",
+    "synonyms": ["debate", "discuss", "dispute"],
+    "antonyms": ["agree", "concur", "consent"],
+    "partOfSpeech": "verb",
+    "exampleSentence": "They argued about which movie to watch.",
+    "usageHint": "Used for discussion with reasons or disagreement."
+  }
+]
+
